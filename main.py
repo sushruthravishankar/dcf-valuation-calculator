@@ -1,4 +1,4 @@
-# 📈 DCF Valuation Calculator in Python
+#  DCF Valuation Calculator in Python
 
 def dcf_valuation(fcf_list, wacc, terminal_growth_rate):
     discounted_fcfs = []
